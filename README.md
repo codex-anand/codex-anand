@@ -446,7 +446,7 @@
 </a>
 
 <a href="https://www.instagram.com/anand__gupta04" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="anand__gupta04" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.github.com/codex-anand" target="_blank">
@@ -458,7 +458,7 @@
 </a>
 
 <a href="https://dev.to/codexanand" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<img src="./dev_to.png" width=50 height=50 alt="codexanand" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
